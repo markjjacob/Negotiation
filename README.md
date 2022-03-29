@@ -1,1 +1,1 @@
-# The_Language_of_Negotiation
+# Negotiation
