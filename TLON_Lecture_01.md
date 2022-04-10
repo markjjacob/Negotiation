@@ -213,9 +213,7 @@ The purpose of this type of negotiation is to
       {{2-3}}
 ```    ascii
   +-------------+
-  |             |
   | CLAIM VALUE |
-  |             |
   +-------------+
 ```
       {{3-4}}
@@ -226,9 +224,7 @@ The purpose of the negotiation is to
       {{4-5}}
 ```    ascii
 +--------------+
-|              |
 | CREATE VALUE |
-|              |
 +--------------+
 ```
 
