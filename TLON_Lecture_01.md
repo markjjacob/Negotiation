@@ -372,5 +372,8 @@ Conflict’s productive aspects.
 
 Thanks for your participation!
 
-Dr. Mark Jacob
-Dr. Stephan Meschke
+![](https://media.giphy.com/media/21PV0Su6USswD76iLv/giphy-downsized-large.gif)
+
+- Dr. Mark Jacob
+- Dr. Stephan Meschke
+- Jumana Amiruddeen
