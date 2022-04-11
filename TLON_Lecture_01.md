@@ -33,17 +33,16 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 ## Initial questions on negotiation
 
+![](https://media.giphy.com/media/12t8WjiLKfG5KE/giphy.gif)
+
 ### Are you a negotiator?
 
-      {{0-4}}
+      {{0-3}}
 > “Like it or not, you are a negotiator … Everyone negotiates something every day,”
 >
 > -- Roger Fisher, William Ury, and Bruce Patton in their seminal book on negotiating, ***Getting to Yes: Negotiating Agreement Without Giving In***
 
-      {{1-2}}
-![](https://media.giphy.com/media/12t8WjiLKfG5KE/giphy.gif)
-
-      {{2-3}}
+      {{1-3}}
 **Do you agree with this statement?**
 
       {{2-3}}
@@ -146,6 +145,8 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 ## Interdependence
 
+![](https://www.patientkeeper.com/blog/wp-content/uploads/2018/07/Interdependence-image.jpg)
+
 ### Working interdependently, parties achieve a better outcome.
 
 Relationships between parties may be characterized in one of three ways:
@@ -186,6 +187,8 @@ The interdependence of people’s goals, and the structure of the situation, str
 
 ## Mutual adjustment
 
+![](https://images.squarespace-cdn.com/content/v1/553490f8e4b0e276c297620e/1565148462416-NVA8OTPL7HHXQRCI185A/2019-10-03-give_v01.jpg?format=1000w)
+
 ### Negotiation is a transformational process, and mutual adjustment is a key cause of the changes occurring during a negotiation.
 
 Negotiations often begin with statements of opening positions.
@@ -223,6 +226,8 @@ Two efforts help to create such trust and beliefs – one is based on perception
 > Enhance perceptions of the credibility of the **process** by signalling fairness and reciprocity in proposals and concessions.
 
 ## Value claiming and value creation
+
+![](https://www.payette.com/wp-content/uploads/2017/06/02-6.jpg)
 
 ### The structure of the interdependence shapes the strategies and tactics negotiators employ.
 
@@ -278,6 +283,8 @@ Differences in time preference.
 - One negotiator may want to realize gains now, while the other may be happy to defer gains into the future.
 
 ## Conflict
+
+![](https://img.over-blog-kiwi.com/2/55/69/67/20181018/ob_ae0214_conflicts-1.jpg)
 
 ### Conflict is a disagreement or opposition, and includes the belief that the parties’ current needs cannot be achieved simultaneously.
 
@@ -373,6 +380,8 @@ Conflict’s productive aspects.
 ![](./img/DualConcernsModel.jpg)
 
 ## Wrapping up
+
+![](https://elearningdesigns.files.wordpress.com/2014/08/bigstock-wrapped-gift-779306.jpg)
 
 ### The Negotiator: Never Say No
 
