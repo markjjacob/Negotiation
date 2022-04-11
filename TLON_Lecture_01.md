@@ -6,6 +6,7 @@ version:  0.0.1
 language: de
 narrator: UK English Female
 comment: The Language of Negotiation
+image:
 
 -->
 
@@ -36,8 +37,8 @@ Objectives
 **Do you agree with this statement?**
 
       {{2-3}}
-    [(1)] Yes
-    [(2)] No
+    [(Yes)] Yes
+    [(No)] No
 
       {{3}}
 - If you agree, what do you negotiate and with whom?
