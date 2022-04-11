@@ -6,7 +6,7 @@ version:  0.0.1
 language: de
 narrator: UK English Female
 comment: The Language of Negotiation
-image:
+icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 -->
 
