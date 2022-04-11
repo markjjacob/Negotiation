@@ -20,6 +20,10 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
       {{1-2}}
 ![Pie](https://www.pon.harvard.edu/wp-content/uploads/images/posts/toa-heftiba-239004-e1628289984316.jpg)
 
+## Module information
+
+??[](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/30619336705/CourseNode/1621823434996586012)
+
 ## Objectives
 
 1. Reflect on your own understanding and experience of negotiation.
