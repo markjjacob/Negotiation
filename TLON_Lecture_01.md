@@ -93,6 +93,10 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
       {{6}}
 ![](https://bilder.buecher.de/produkte/51/51322/51322162z.jpg)
 
+### Where does the word negotiation originate?
+
+??[](https://www.etymonline.com/word/negotiation)
+
 ### What are the characteristics of a negotiation situation?
 
       {{1}}
