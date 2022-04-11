@@ -3,7 +3,7 @@
 author:   Dr. Mark Jacob
 email:
 version:  0.0.1
-language: de
+language: en
 narrator: UK English Female
 comment: The Language of Negotiation
 icon: ./img/TUBAF_Logo_orig_RGB.jpg
@@ -12,18 +12,24 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/Negotiation/blob/main/TLON_Lecture_01.md)
 
-# The Language of Negotiation - Lecture 1
+# The Language of Negotiation - The Nature of Negotiation
 
-> **The Nature of Negotiation**
+      {{0-1}}
+![People](https://www.potential.com/wp-content/uploads/2018/04/blog-negot.png)
 
-Objectives
+      {{1-2}}
+![Pie](https://www.pon.harvard.edu/wp-content/uploads/images/posts/toa-heftiba-239004-e1628289984316.jpg)
+
+## Objectives
 
 1. Reflect on your own understanding and experience of negotiation.
 2. Understand the definition of negotiation, the key elements of a negotiation process, and the distinct types of negotiation.
 3. Explain how people use negotiation to manage different situations of interdependence - that is that they depend on each other for achieving their goals.
 4. Consider how negotiation fits within the broader perspective of processes for managing conflict.
 
-## Are you a negotiator?
+## Initial questions on negotiation
+
+### Are you a negotiator?
 
       {{0-4}}
 > “Like it or not, you are a negotiator … Everyone negotiates something every day,”
@@ -47,7 +53,7 @@ Objectives
       {{4}}
 ??[](https://pad.riseup.net/p/0BpGfs2vuhzBU0XuIF7E-keep)
 
-## Are your negotiations formal or informal?
+### Are your negotiations formal or informal?
 
 > **Formal negotiation**
 
@@ -61,7 +67,7 @@ Objectives
 - working out a conflict with a co-worker
 - convincing a client to accept a late delivery
 
-## How is negotiation defined?
+### How is negotiation defined?
 
       {{1-3}}
 > "Negotiation is “back-and-forth communication designed to reach an agreement when you and the other side have some interests that are shared and others that are opposed.”
@@ -87,7 +93,7 @@ Objectives
       {{6}}
 ![](https://bilder.buecher.de/produkte/51/51322/51322162z.jpg)
 
-## What are the characteristics of a negotiation situation?
+### What are the characteristics of a negotiation situation?
 
       {{1}}
 > There are two or more parties.
@@ -130,7 +136,9 @@ Objectives
   - The need to “win.”
   - The need to maintain a good relationship.
 
-## Working interdependently, parties achieve a better outcome.
+## Interdependence
+
+### Working interdependently, parties achieve a better outcome.
 
 Relationships between parties may be characterized in one of three ways:
 
@@ -140,7 +148,7 @@ Relationships between parties may be characterized in one of three ways:
 >
 > When the parties depend on each other to achieve their own outcome they are **interdependent**; characterized by interlocking goals.
 
-## Types of interdependence affect outcomes.
+### Types of interdependence affect outcomes.
 
 The interdependence of people’s goals, and the structure of the situation, strongly shapes negotiation processes and outcomes.
 
@@ -154,7 +162,7 @@ The interdependence of people’s goals, and the structure of the situation, str
 >
 > To the degree that one person achieves their goal, the other’s goals are not necessarily blocked, and may in fact be enhanced.
 
-## Evaluating interdependence also depends heavily on the desirability of alternatives to working together.
+### Evaluating interdependence also depends heavily on the desirability of alternatives to working together.
 
 >> BATNA: Best Alternative to a Negotiated Agreement.
 
@@ -168,7 +176,9 @@ The interdependence of people’s goals, and the structure of the situation, str
 
 - Every possible interdependency has an alternative – negotiators can walk away.
 
-## Negotiation is a transformational process, and mutual adjustment is a key cause of the changes occurring during a negotiation.
+## Mutual adjustment
+
+### Negotiation is a transformational process, and mutual adjustment is a key cause of the changes occurring during a negotiation.
 
 Negotiations often begin with statements of opening positions.
 
@@ -182,7 +192,7 @@ Negotiations often begin with statements of opening positions.
 
 5. When a concession is made, the bargaining range – the range of possible agreements between the two party’s minimally acceptable settlements – is further constrained.
 
-## Two dilemmas arise in mutual adjustment: honesty and trust.
+### Two dilemmas arise in mutual adjustment: honesty and trust.
 
 > The dilemma of ***honesty*** concerns how much truth to tell the other.
 >
@@ -196,7 +206,7 @@ Negotiations often begin with statements of opening positions.
 >
 > If you believe nothing they say, you will have difficulty in reaching an agreement.
 
-## Concessions are greatly aided by trust and a belief.
+### Concessions are greatly aided by trust and a belief.
 
 Two efforts help to create such trust and beliefs – one is based on perceptions of **outcomes** and the other on perceptions of the **process**.
 
@@ -204,7 +214,9 @@ Two efforts help to create such trust and beliefs – one is based on perception
 
 > Enhance perceptions of the credibility of the **process** by signalling fairness and reciprocity in proposals and concessions.
 
-## The structure of the interdependence shapes the strategies and tactics negotiators employ.
+## Value claiming and value creation
+
+### The structure of the interdependence shapes the strategies and tactics negotiators employ.
 
       {{1-2}}
 Negotiators use win-lose strategies in distributive situations.
@@ -229,7 +241,7 @@ The purpose of the negotiation is to
 +--------------+
 ```
 
-## Most negotiations are a combination of claiming and creating value, and there are significant implications to this.
+### Most negotiations are a combination of claiming and creating value, and there are significant implications to this.
 
 - Negotiators must be able to recognize when to use more of one approach than the other.
 - Negotiators must be versatile in their use of both strategic approaches.
@@ -239,7 +251,7 @@ The purpose of the negotiation is to
 
 Successful coordination of interdependence has the potential to lead to synergy, which is the notion that “the whole is greater than the sum of its parts.”
 
-## Value may be created in numerous ways, and the heart of the process lies in exploring and exploiting the differences between the negotiators.
+### Value may be created in numerous ways, and the heart of the process lies in exploring and exploiting the differences between the negotiators.
 
 Differences in interests.
 
@@ -257,7 +269,9 @@ Differences in time preference.
 
 - One negotiator may want to realize gains now, while the other may be happy to defer gains into the future.
 
-## Conflict is a disagreement or opposition, and includes the belief that the parties’ current needs cannot be achieved simultaneously.
+## Conflict
+
+### Conflict is a disagreement or opposition, and includes the belief that the parties’ current needs cannot be achieved simultaneously.
 
       {{0-1}}
 ![conflict](https://media.giphy.com/media/BShVIfpuKWXLLF8bRr/giphy.gif)
@@ -274,7 +288,7 @@ Differences in time preference.
 
 - When both parties want very different outcomes.
 
-## Conflict arises at different levels of individual or group.
+### Conflict arises at different levels of individual or group.
 
 Intrapersonal or intrapsychic conflict.
 
@@ -294,7 +308,7 @@ Intergroup conflict.
 
 - Negotiations at this level are the most complex.
 
-## The objective is not to eliminate conflict but to learn how to manage it to control the destructive elements while enjoying the productive aspects.
+### The objective is not to eliminate conflict but to learn how to manage it to control the destructive elements while enjoying the productive aspects.
 
       {{1-3}}
 Elements that contribute to conflict’s destructive image:
@@ -334,7 +348,7 @@ Conflict’s productive aspects.
 
 - Conflict can be stimulating and fun.
 
-## Dimensions of a conflict can be difficult or easy to resolve.
+### Dimensions of a conflict can be difficult or easy to resolve.
 
 | Dimension                 | Difficult to Resolve       | Easy to Resolve                |
 | ------------------------- |:--------------------------:| ------------------------------:|
@@ -346,11 +360,13 @@ Conflict’s productive aspects.
 | Third parties             | No neutral party available | Powerful third party available |
 | Conflict progress         | Unbalanced                 | Balanced                       |
 
-## According to the Dual Concerns Model, behaviour depends on concern about one‘s own and others‘ outcomes.
+### According to the Dual Concerns Model, behaviour depends on concern about one‘s own and others‘ outcomes.
 
 ![](./img/DualConcernsModel.jpg)
 
-## The Negotiator: Never Say No
+## Wrapping up
+
+### The Negotiator: Never Say No
 
       {{0-1}}
 - What kind of outcome or outcomes from the Dual Concerns model does this statement associate most with?
@@ -369,12 +385,24 @@ Conflict’s productive aspects.
 - Is there anything you would have done differently?
 - Can we diagnose the situation using the Conflict Diagnostic Model?
 
-## Final slide
+### Take-home messages
 
-Thanks for your participation!
+      {{0}}
+> What are you taking with you from the input and discussions on negotiation?
 
+      {{1-2}}
+1. Initial questions
+
+2. Interdependence
+
+3. Mutual adjustment
+
+4. Value claiming and value correlation
+
+5. Conflict
+
+      {{2}}
+Thanks from Mark, Stephan and Jumana for your participation!
+
+      {{3}}
 ![](https://media.giphy.com/media/21PV0Su6USswD76iLv/giphy-downsized-large.gif)
-
-- Dr. Mark Jacob
-- Dr. Stephan Meschke
-- Jumana Amiruddeen
