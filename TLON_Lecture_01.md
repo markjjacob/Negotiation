@@ -173,8 +173,17 @@ The interdependence of people’s goals, and the structure of the situation, str
 
 ### Evaluating interdependence also depends heavily on the desirability of alternatives to working together.
 
+      {{1-3}}
+Who before today had heard of **BATNA**?
+
+      {{2-3}}
+[(Yes)] Yes
+[(No)] No
+
+      {{3-4}}
 >> BATNA: Best Alternative to a Negotiated Agreement.
 
+      {{4}}
 - Whether you should or should not agree on something in a negotiation depends upon the attractiveness of your best available alternatives.
 
 - Negotiators must understand their own BATNA, and the other parties’.
@@ -286,15 +295,25 @@ Differences in time preference.
 
 ![](https://img.over-blog-kiwi.com/2/55/69/67/20181018/ob_ae0214_conflicts-1.jpg)
 
+
+
 ### Conflict is a disagreement or opposition, and includes the belief that the parties’ current needs cannot be achieved simultaneously.
 
-      {{0-1}}
+      {{0-2}}
 ![conflict](https://media.giphy.com/media/BShVIfpuKWXLLF8bRr/giphy.gif)
 
-      {{1}}
+      {{1-3}}
+How do you feel about conflict?
+
+      {{2-3}}
+[(positive)] positive
+[(neutral)] neutral
+[(negative)] negative
+
+      {{3}}
 **Conflict arises:**
 
-      {{2}}
+      {{4}}
 - From the strongly divergent needs of the two parties.
 
 - From misperceptions and misunderstandings.
