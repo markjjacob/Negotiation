@@ -12,7 +12,7 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/Negotiation/blob/main/TLON_Lecture_02.md)
 
-# The Language of Negotiation - Strategy and Tactics of Distributive Bargasining
+# The Language of Negotiation - Strategy and Tactics of Distributive Bargaining
 
       {{0-1}}
 ![](https://www.negotiations.com/wp-content/uploads/2017/05/19-20-01.png)
