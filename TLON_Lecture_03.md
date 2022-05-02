@@ -50,6 +50,8 @@ Successful integrative negotiator traits:
 
 {{8}}
 Rate yourself:
+
+{{9}}
 [[Low][Below average][Above average][High]]
 [                     ] Honesty and integrity ?
 [                     ] Abundance mentality ?
