@@ -31,13 +31,11 @@ Integrative negotiation allows both sides to achieve their objectives.
 {{4-5}}
 Discussion and mutual exploration often suggest alternatives where both parties gain.
 
-{{5}}
-Negotiators make one of three mistakes.
+{{5-7}}
+What does this remind us of from the first lecture?
 
-{{6}}
-1. Failing to negotiate when they should.
-2. Negotiating when they should not.
-3. Negotiating, but with the wrong strategy. Rather than assume a win-lose situation, look for win-win solutions.
+{{6-7}}
+![Dual Concerns Model](./img/DualConcernsModel.jpg)
 
 {{7}}
 Successful integrative negotiator traits:
@@ -48,6 +46,16 @@ Successful integrative negotiator traits:
 - Maturity.
 - Systems orientation.
 - Superior listening skills.
+
+
+{{8}}
+Rate yourself:
+[[Low][Below average][Above average][High]]
+[                     ] Honesty and integrity ?
+[                     ] Abundance mentality ?
+[                     ] Maturity ?
+[                     ] Systems orientation ?
+[                     ] Superior listening skills ?
 
 ## Overview of the Integrative Negotiation Process
 
