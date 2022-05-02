@@ -52,12 +52,12 @@ Successful integrative negotiator traits:
 Rate yourself:
 
 {{9}}
-[[Low][Below average][Above average][High]]
-[                     ] Honesty and integrity ?
-[                     ] Abundance mentality ?
-[                     ] Maturity ?
-[                     ] Systems orientation ?
-[                     ] Superior listening skills ?
+    [[Low][Below average][Above average][High]]
+    [                                         ] Honesty and integrity ?
+    [                                         ] Abundance mentality ?
+    [                                         ] Maturity ?
+    [                                         ] Systems orientation ?
+    [                                         ] Superior listening skills ?
 
 ## Overview of the Integrative Negotiation Process
 
