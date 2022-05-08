@@ -16,9 +16,13 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 > With effective planning and goal setting, most negotiators can achieve their objectives. Without them, results occur more by chance than by effort.
 
+```` ascii
+
 .-------.   .----------.   .----------.
-| Goals |-->| Strategy |-->| Planning |
+| Goals +-->| Strategy +-->| Planning |
 '-------'   '----------'   '----------'
+
+````
 
 > Although the model suggests a linear relationship, many begin midway in the sequence and work backward or forward until the steps are aligned.
 
