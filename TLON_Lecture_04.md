@@ -266,6 +266,12 @@ Planning the Process and Structuring the Context.
 - How will we keep track of what is agreed to?
 - Have we created a mechanism for modifying the deal if necessary?
 
-### Preparation sheet
+#### Preparation sheet 1
 
 ??[prep sheet](https://www.mwi.org/wp-content/uploads/2017/01/mwi-negotiation-prep-sheet.pdf)
+
+#### Preparation sheet 2
+
+![Ucros 1](https://miro.medium.com/max/1400/1*I7lIwUxWsyVlVxhWMpajmg.jpeg)
+
+![Ucros 2](https://miro.medium.com/max/1400/1*4qLnWnu95VmDCpsSZfN5xw.jpeg)
