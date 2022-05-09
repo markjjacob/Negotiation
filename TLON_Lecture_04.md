@@ -118,7 +118,7 @@ Consequences if applied blindly, thoughtlessly, or inflexibly.
 
 Remember, it is difficult to follow any “pure” strategy.
 
-## Geating ready to implement the strategy: The planning process
+## Getting ready to implement the strategy: The planning process
 
 1. Define the negotiating goal.
 2. Define the major issues related to achieving the goal.
@@ -243,7 +243,7 @@ When people negotiate in a professional context, there may be more than two part
 > 
 > Imagine you are the captain of a soccer team, envision the field and assess all the parties who are in the soccer stadium.
 
-![field_analysis](./img/Fig4_3.png)
+![field_analysis](./img/Fig4_3.jpg)
 
 ### Step 10: Presenting issues to the other party - Substance and process
 
