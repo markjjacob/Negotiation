@@ -96,5 +96,5 @@ Accommodation is as much a win-lose strategy as competition.
 
 ## Characteristics of different engagement strategies
 
-
+![engagement strategies](./img/Table_4_1_strategies.png)
 
