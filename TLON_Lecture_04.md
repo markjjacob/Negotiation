@@ -140,4 +140,4 @@ Assumptions.
 
 ### Step 1: Defining the negotiating goal
 
-
+![definging_goals](./img/defining_goals.png)
