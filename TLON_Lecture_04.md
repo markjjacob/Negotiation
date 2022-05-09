@@ -98,3 +98,46 @@ Accommodation is as much a win-lose strategy as competition.
 
 ![engagement strategies](./img/Table_4_1_strategies.png)
 
+## Drawbacks: Accommodation, Competition and Collaboration
+
+Consequences if applied blindly, thoughtlessly, or inflexibly.
+
+- Distributive strategies create “we-they” patterns, leading to the following.
+
+  - Distortions in judgment about the other’s contributions and efforts.
+  - Distortions in perceptions of the other’s motives, needs, positions.
+
+- Integrative negotiators may be taken advantage of.
+
+  - They may forget constituencies in favor of the process for its own sake.
+
+- Accommodative strategies set a pattern of avoiding conflict.
+
+  - A precedent that is hard to break.
+  - Efforts to restore balance may be met with resentment.
+
+Remember, it is difficult to follow any “pure” strategy.
+
+## Geating ready to implement the strategy: The planning process
+
+1. Define the negotiating goal.
+2. Define the major issues related to achieving the goal.
+3. Assemble the issues, ranking their importance, and define the bargaining mix.
+4. Define the interests.
+5. Know your alternatives (BATNAs).
+6. Know your limits, including a resistance point.
+7. Analyze and understand the other’s goals, issues, and resistance points.
+8. Set your own targets and opening bids.
+9. Assess the social context of the negotiation.
+10. Present the issues to the other party – substance and process.
+
+Assumptions.
+
+- One process can be used for both distributive and integrative.
+- Factors beyond the table may affect strategizing.
+- Negotiations will be one-to-one.
+- The steps are linear.
+
+### Step 1: Defining the negotiating goal
+
+
