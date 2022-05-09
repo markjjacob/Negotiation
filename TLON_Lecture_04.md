@@ -178,7 +178,7 @@ Positions are what a negotiator wants – interests are why they want them.
 ### Step 5: Knowing your alternatives (BATNAs)
 
 > Good preparation requires you establish two clear points:
-> x
+> 
 > - Your alternatives if this deal cannot be successfully completed.
 > - And your limits - the least acceptible offer that you will still agree to.
 
@@ -266,3 +266,6 @@ Planning the Process and Structuring the Context.
 - How will we keep track of what is agreed to?
 - Have we created a mechanism for modifying the deal if necessary?
 
+### Preparation sheet
+
+??[prep sheet](https://www.mwi.org/wp-content/uploads/2017/01/mwi-negotiation-prep-sheet.pdf)
