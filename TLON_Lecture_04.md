@@ -140,4 +140,129 @@ Assumptions.
 
 ### Step 1: Defining the negotiating goal
 
-![definging_goals](./img/Step1_defining_goals.png)
+![defining_goals](./img/Step1_defining_goals.png)
+
+### Assembling the issues, ranking their importance and defining the bargaining mix
+
+> Assemble all the issues into a comprehensive list.
+> 
+> The combination of lists from both sides is the bargaining mix
+
+Prioritization includes two steps.
+
+- Determine which issues are most important and which less important.
+
+  - A simple way is to use rank-order or group issues into categories.
+  - Another way is to weight issues by importance.
+  - Set priorities for both tangible and intangible issues.
+  - Specify a bargaining range for each issue in the mix.
+
+- Determine whether the issues are linked or separate.
+
+  - If separate, they can be easily added or subtracted.
+  - If connected, settlement on one is linked to settlement on the others.
+
+### Step 4: Defining the interests
+
+Positions are what a negotiator wants – interests are why they want them.
+
+- Asking “why” questions helps surface values, needs, or principles.
+- Like goals, interests may be:
+  - Substantive – directly related to the focal issues under negotiation.
+  - Process-based – related to how the negotiators behave.
+  - Relationship-based – tied to the current or desired future relationship.
+
+- Interests may also be based on intangibles of negotiation.
+- Surfacing interests may be essential to understanding another side’s position.
+
+### Step 5: Knowing your alternatives (BATNAs)
+
+> Good preparation requires you establish two clear points:
+> x
+> - Your alternatives if this deal cannot be successfully completed.
+> - And your limits - the least acceptible offer that you will still agree to.
+
+BATNAs are other agreements negotiators could achieve and still meet their needs.
+
+- Alternatives are very important because they define whether the current outcome is better than another possibility.
+- The better the alternatives, the more power you have to walk away from the current deal and still have your needs and interests met.
+
+### Step 6: Knowing your limits, including a resistance point
+
+A resistance point is where you stop negotiations as any settlement beyond this point is not minimally acceptable.
+
+- A seller’s resistance point is the least they will take for an item.
+- A buyer’s resistance point is the most they will pay for an item.
+
+Clear resistance points help keep people from agreeing to deals that they later realize weren’t very smart.
+
+### Analyzing and understanding the other party's goals, issues and resistance points
+
+> Find a way to see the negotiation from the other party’s eyes.
+> 
+> The goal is to understand their approach to the negotiation and what they are likely to want – then compare against your own.
+
+- Attempt to understand if the other party has the same goals as you.
+- The more you learn about the other party’s issues, and what they bring to the table, the better you can predict how the likely process.
+- Get information about their current interests and needs through discussion, anticipating, asking, or researching.
+- Understand the other party’s limits to give you an idea of how far you can “push” them.
+
+In distributive negotiation, the other party may not disclose information and/or misrepresent their limits and alternatives in order to pressure you into a deal that is better for them.
+
+### Setting one's own targets and opening bids
+
+There are many ways to set a target but keep these principles in mind.
+
+- Targets should be specific, difficult but achievable, and verifiable.
+- Target setting requires proactive thinking about your own objectives.
+- Target setting may require considering how to package several issues and objectives.
+- Target setting requires an understanding of trade-offs and throwaways.
+
+> Similarly, there are numerous ways to set an initial asking price.
+> 
+> - It may be the best possible outcome, an ideal solution, something even better than was achieved last time.
+> - It is easy to get overly confident and set an opening so unrealistic that the other party laughs, gets angry, or walks away before responding.
+
+### Step 9: Assessing the social context of a negotiation
+
+When people negotiate in a professional context, there may be more than two parties.
+
+- There may be more than two negotiators at the table.
+
+  - Multiple parties often lead to the formation of coalitions.
+
+- Negotiators may also have constituents who will evaluate and critique them.
+
+  - There may be observers who watch and critique the negotiation.
+
+- Negotiation occurs in a context of rules.
+
+  - A social system of laws, customs, common business practices, cultural norms, and political cross-pressures.
+
+> One way to assess all the key parties in a negotiation is to complete a “field analysis.”
+> 
+> Imagine you are the captain of a soccer team, envision the field and assess all the parties who are in the soccer stadium.
+
+![field_analysis](./img/Fig4_3.png)
+
+### Step 10: Presenting issues to the other party - Substance and process
+
+Presenting and Framing the Issues.
+
+- Consider how you will present your case to the other negotiator.
+
+  - What facts support my point of view?
+  - How can I present the facts so they are most convincing?
+
+Planning the Process and Structuring the Context.
+
+- What agenda should we follow?
+
+  - Consider scope, sequence, framing, packaging, and formula.
+
+- Where should we negotiate?
+- What is the time period of the negotiation?
+- What might be done if negotiation fails?
+- How will we keep track of what is agreed to?
+- Have we created a mechanism for modifying the deal if necessary?
+
