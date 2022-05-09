@@ -140,7 +140,7 @@ Assumptions.
 
 ### Step 1: Defining the negotiating goal
 
-![defining_goals](./img/Step1_defining_goals.png)
+![defining goals](./img/Step1_defining_goals.png)
 
 ### Assembling the issues, ranking their importance and defining the bargaining mix
 
@@ -243,7 +243,7 @@ When people negotiate in a professional context, there may be more than two part
 > 
 > Imagine you are the captain of a soccer team, envision the field and assess all the parties who are in the soccer stadium.
 
-![field_analysis](./img/Fig4_3.jpg)
+![field analysis](./img/Fig4_3.jpg)
 
 ### Step 10: Presenting issues to the other party - Substance and process
 
