@@ -69,6 +69,8 @@ Choose a course of action on the basis of results, duty, community norms, or per
 
 - the rightness of an action is determined by evaluating the pros and cons of its consequences.
 
+[The end justifies the means](https://en.wiktionary.org/wiki/the_end_justifies_the_means)
+
 **Duty ethics**
 
 - the rightness of an action is determined by an obligation to adhere to principles, laws, and social standards that define what is right and wrong and where the line is.
