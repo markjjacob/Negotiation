@@ -19,28 +19,28 @@ icon: ./img/WBM_orig_RGB.jpg
 ## Is this ethical?
 
     {{1-3}}
-1. You are selling your e-bike to raise money for an upcoming trip overseas.
+You are selling your e-bike to raise money for an upcoming trip overseas.
 
     {{2-3}}
--	Is it ethical to say you have another offer, when there is no other offer?
+Is it ethical to say you have another offer, when there is no other offer?
 
     {{3-5}}
-2. To gain inside knowledge of a competitor’s business, you have a consultant call and ask about problems or threats in the company.
+To gain inside knowledge of a competitor’s business, you have a consultant call and ask about problems or threats in the company.
 
     {{4-5}}
--	Is this an ethical way to learn about the competitor’s company?
+Is this an ethical way to learn about the competitor’s company?
 
     {{5-7}}
-3. When selling your laptop, you decide not to tell buyers the computer crashes without warning.
+When selling your laptop, you decide not to tell buyers the computer crashes without warning.
 
     {{6-7}}
--	Is this ethical?  Would you be likely to do this?
+Is this ethical?  Would you be likely to do this?
 
     {{7-9}}
-4. You buy a new pair of shoes on sale (no returns) but you make a scene in the store and the manager refunds your money.
+You buy a new pair of shoes on sale (no returns) but you make a scene in the store and the manager refunds your money.
 
     {{8-9}}
--	Is this ethical?  Would you be likely to do this?
+Is this ethical?  Would you be likely to do this?
 
     {{9}}
 1. e-bike: fake another offer
