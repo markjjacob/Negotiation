@@ -48,7 +48,7 @@ Ethics are broadly applied social standards for what is right or wrong in a part
 
 -	Differ from morals, which are individual and personal beliefs.
 
-??[morals vs ethics](https://www.britannica.com/story/whats-the-difference-between-morality-and-ethics)
+??[morals vs ethics](https://www.dictionary.com/e/moral-vs-ethical/)
 
 Choose a course of action on the basis of results, duty, community norms, or personal convictions.
 
