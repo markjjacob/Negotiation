@@ -30,3 +30,28 @@ You buy a new pair of shoes on sale (no returns) but you make a scene in the sto
 
 -	Is this ethical?  Would you be likely to do this?
 
+### Ethics defined
+
+Ethics are broadly applied social standards for what is right or wrong in a particular situation, or a process for setting those standards.
+
+-	Differ from morals, which are individual and personal beliefs.
+
+Choose a course of action on the basis of results, duty, community norms, or personal convictions.
+
+End-result ethics
+
+– the rightness of an action is determined by evaluating the pros and cons of its consequences.
+
+Duty ethics
+
+– the rightness of an action is determined by an obligation to adhere to principles, laws, and social standards that define what is right and wrong and where the line is.
+
+Social contract ethics
+
+– the rightness of an action is based on the customs and norms of a particular community.
+
+Personalistic ethics
+
+– the rightness of the action is based on one’s own conscience and moral standards.
+
+
