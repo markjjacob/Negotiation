@@ -14,6 +14,10 @@ icon: ./img/WBM_orig_RGB.jpg
 
 # The Language of Negotiation - Ethics
 
+![ethical negotiation](https://www.negotiations.com/wp-content/uploads/2017/05/ethical-negotiation.jpg)
+
+## Is this ethical?
+
 1. You are selling your e-bike to raise money for an upcoming trip overseas.
 
 -	Is it ethical to say you have another offer, when there is no other offer?
@@ -109,7 +113,7 @@ With the problem fully defined, the path to a convincing solutions travels throu
 •	An assessment of the ethical obligations to other involved parties regarding what is “right” and “just” and “fair.”
 The result from this process is to propose a convincing moral solution.
 
-### Ethical conduct in negotiation
+## Ethical conduct in negotiation
 
 Why do some negotiators use unethical tactics?
 
@@ -196,6 +200,8 @@ Once identified, the negotiator may decide to use one or more tactics – the se
 Once the tactic is employed, the negotiator will assess consequences on three standards: whether the tactic worked and produced the desired result; how the negotiator feels about themselves after using the tactic; and how the individual may be judged by the other party or by neutral observers.
 Negative or positive conclusions on any of these three standards may lead the negotiator to try to explain or justify use of the tactic, and they will eventually affect a decision to employ similar tactics in the future.
 
+## Why use deceptive tactics? Motives and consequences
+
 ### Motives for using deceptive tactics
 
 Negotiators use ethically ambiguous tactics to increase their power.
@@ -261,7 +267,7 @@ Here are some typical examples.
 > 
 > They also help rationalize the behavior to themselves.
 
-### Dealing with others' use of deception
+## Dealing with others' use of deception
 
 Ask probing questions to reveal a great deal of information.
 
