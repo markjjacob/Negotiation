@@ -32,11 +32,11 @@ icon: ./img/WBM_orig_RGB.jpg
 
 Is this ethical?
 
-    [[LYes][No][Unclear]]
-    [                                         ] 1
-    [                                         ] 2
-    [                                         ] 3
-    [                                         ] 4
+    [[Ethical][Unethical][Would][Wouldn't]
+    [                                         ] e-bike
+    [                                         ] competitor
+    [                                         ] laptop
+    [                                         ] shoes
 
 ### Ethics defined
 
