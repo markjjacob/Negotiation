@@ -239,13 +239,9 @@ Consequences occur whether the tactic worked or not.
 
 > Reactions of others.
 > 
-> - “Targets” are typically angry and now mistrust you.
-> 
->   - They may seek revenge.
+> - “Targets” are typically angry and now mistrust you. They may seek revenge.
 >   
-> - For serious and personal deception, the relationship suffers.
-> 
->   - Damage to your reputation can be difficult to repair.
+> - For serious and personal deception, the relationship suffers. Damage to your reputation can be difficult to repair.
 
 > Reactions of self.
 > - When the other party suffers, a negotiator may feel discomfort.
