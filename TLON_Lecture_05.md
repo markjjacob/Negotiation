@@ -160,7 +160,14 @@ Effective agreements depend on sharing accurate information but negotiators want
 
 ### Table 5.2: Categories of marginally ethical negotiating tactics
 
-![Table 5.2](./img/Table5_2.png)
+| Category                                 | Example                                                          |
+| ---------------------------------------- | ---------------------------------------------------------------- |
+| Traditional competitive bargaining       | Not disclosing your walkaway; making an inflated opening offer   |
+| Emotional manipulation                   | Faking anger, fear, disappointment; faking elation, satisfaction |
+| Misrepresentation                        | Distorting information or negotiation events in describing them  |
+| Misrepresentation to opponent’s networks | Corrupting your opponent’s reputation with their peers           |
+| Inappropriate information gathering      | Bribery, infiltration, spying, etc.                              |
+| Bluffing                                 | Insincere threats or promises                                    |
 
 Sources: Adapted from Robert J. Robinson, Roy J. Lewicki, and Eileen M. Donahue, “Extending and Testing a Five Factor Model of Ethical and Unethical Bargaining Tactics: The SINS Scale,” Journal of Organizational Behavior 21 (2000), pp. 649–64; and Ingrid S. Fulmer, Bruce Barry, and D. Adam Long, “Lying and Smiling: Informational and Emotional Deception in negotiation,” Journal of Business Ethics 88 (2009), pp. 691–709
 
