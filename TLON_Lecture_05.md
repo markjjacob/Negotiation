@@ -49,9 +49,6 @@ Is this ethical?  Would you be likely to do this?
 4. shoes: make a scene to get refund
 
     {{10}}
-Is this ethical?
-
-    {{11}}
     [[Ethical][Unethical][Would][Wouldn't]]
     [                                         ] e-bike
     [                                         ] competitor
