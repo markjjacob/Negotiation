@@ -14,21 +14,29 @@ icon: ./img/WBM_orig_RGB.jpg
 
 # The Language of Negotiation - Ethics
 
-You are selling your e-bike to raise money for an upcoming trip overseas.
+1. You are selling your e-bike to raise money for an upcoming trip overseas.
 
 -	Is it ethical to say you have another offer, when there is no other offer?
 
-To gain inside knowledge of a competitor’s business, you have a consultant call and ask about problems or threats in the company.
+2. To gain inside knowledge of a competitor’s business, you have a consultant call and ask about problems or threats in the company.
 
 -	Is this an ethical way to learn about the competitor’s company?
 
-When selling your laptop, you decide not to tell buyers the computer crashes without warning.
+3. When selling your laptop, you decide not to tell buyers the computer crashes without warning.
 
 -	Is this ethical?  Would you be likely to do this?
 
-You buy a new pair of shoes on sale (no returns) but you make a scene in the store and the manager refunds your money.
+4. You buy a new pair of shoes on sale (no returns) but you make a scene in the store and the manager refunds your money.
 
 -	Is this ethical?  Would you be likely to do this?
+
+Is this ethical?
+
+    [[LYes][No][Unclear]]
+    [                                         ] 1
+    [                                         ] 2
+    [                                         ] 3
+    [                                         ] 4
 
 ### Ethics defined
 
