@@ -99,7 +99,7 @@ Legal.
 
 ![Figure 5.1](./img/Fig5_1.jpg)
 
---{{0}}--
+    --{{0}}--
 The first step is developing a complete understanding of the moral problem at hand.
 •	This means grasping the various subjective moral standards in play among involved parties, including individual values and beliefs as well as social norms.
 •	It also means recognizing the mix of potential harms, benefits, and rights that are involved in the situation.
@@ -189,15 +189,12 @@ For example, misrepresenting your interest on a common-value issue in order to o
 
 ![Figure 5.2](./img/Fig5_2.jpg)
 
-    --{{1}}--
+    --{{0}}--
 This flowchart model describes a rational calculation process in which the negotiator selects a tactic, uses the tactic, evaluates the consequences, and attempts to manage the consequences (if the tactic is detected) through explanations and justifications.
 The model puts a negotiator in an influence situation and identifies possible influence tactics that could be effective, some of which might be deceptive, inappropriate, or marginally ethical.
 Once identified, the negotiator may decide to use one or more tactics – the selection and use are likely influenced by the negotiator’s own motivations and their judgment of the tactic’s appropriateness.
 Once the tactic is employed, the negotiator will assess consequences on three standards: whether the tactic worked and produced the desired result; how the negotiator feels about themselves after using the tactic; and how the individual may be judged by the other party or by neutral observers.
 Negative or positive conclusions on any of these three standards may lead the negotiator to try to explain or justify use of the tactic, and they will eventually affect a decision to employ similar tactics in the future.
-
-    {{1}}
-Explanation
 
 ### Motives for using deceptive tactics
 
