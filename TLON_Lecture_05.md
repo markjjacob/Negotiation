@@ -85,13 +85,13 @@ Choose a course of action on the basis of results, duty, community norms, or per
 
 - the rightness of the action is based on one’s own conscience and moral standards.
 
-### Applying ehtical reasoning to negotiation
+### Applying ethical reasoning to negotiation
 
 Using the situation from the start of the chapter involving selling an e-bike and the statement to a prospective buyer about the existance of another potential buyer.
 
 > If you believe in **end-result** ethics, then you might do whatever is necessary to get the best possible outcome (including lie).
 
-> If you believe in **duty** ethics, you might perceive an obligation never to engage in subterfuge and might reject a tactic that involves an outright lie.
+> If you believe in **duty** ethics, you might perceive an obligation never to engage in [subterfuge](https://en.wiktionary.org/wiki/subterfuge) and might reject a tactic that involves an outright lie.
 
 > In **social contract** ethics, you base your tactics on appropriate conduct in your community; if others would use deception in a situation like this, you will too.
 
