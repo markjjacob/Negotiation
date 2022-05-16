@@ -63,6 +63,8 @@ Ethics are broadly applied social standards for what is right or wrong in a part
 
 ??[morals vs ethics](https://www.dictionary.com/e/moral-vs-ethical/)
 
+### Standards for evaluating strategy and tactics
+
 Choose a course of action on the basis of results, duty, community norms, or personal convictions.
 
 **End-result ethics**
@@ -121,14 +123,7 @@ Legal.
 ![Figure 5.1](./img/Fig5_1.jpg)
 
     --{{0}}--
-The first step is developing a complete understanding of the moral problem at hand.
-•	This means grasping the various subjective moral standards in play among involved parties, including individual values and beliefs as well as social norms.
-•	It also means recognizing the mix of potential harms, benefits, and rights that are involved in the situation.
-With the problem fully defined, the path to a convincing solutions travels through the three modes of analysis shown on the right side of the figure.
-•	A determination of economic outcomes of potential courses of action.
-•	A consideration of legal requirements that bear on the situation.
-•	An assessment of the ethical obligations to other involved parties regarding what is “right” and “just” and “fair.”
-The result from this process is to propose a convincing moral solution.
+The first step is developing a complete understanding of the moral problem at hand. This means grasping the various subjective moral standards in play among involved parties, including individual values and beliefs as well as social norms. It also means recognizing the mix of potential harms, benefits, and rights that are involved in the situation. With the problem fully defined, the path to a convincing solutions travels through the three modes of analysis shown on the right side of the figure. A determination of economic outcomes of potential courses of action. A consideration of legal requirements that bear on the situation. An assessment of the ethical obligations to other involved parties regarding what is “right” and “just” and “fair.” The result from this process is to propose a convincing moral solution.
 
 ## Ethical conduct in negotiation
 
