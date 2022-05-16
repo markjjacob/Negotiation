@@ -236,6 +236,7 @@ Consequences occur whether the tactic worked or not.
 > - Consequences occur whether the tactic worked or not.
 
 > Reactions of others.
+> 
 > - “Targets” are typically angry and now mistrust you.
 > 
 >   - They may seek revenge.
@@ -244,10 +245,10 @@ Consequences occur whether the tactic worked or not.
 > 
 >   - Damage to your reputation can be difficult to repair.
 
- > Reactions of self.
- > - When the other party suffers, a negotiator may feel discomfort.
- > 
- > - Negotiators who have no problem using deceptive tactics may use them again and ponder how to use them more effectively.
+> Reactions of self.
+> - When the other party suffers, a negotiator may feel discomfort.
+> 
+> - Negotiators who have no problem using deceptive tactics may use them again and ponder how to use them more effectively.
 
 
 ### Explanations and justifications
