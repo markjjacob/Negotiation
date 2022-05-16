@@ -32,7 +32,7 @@ icon: ./img/WBM_orig_RGB.jpg
 
 Is this ethical?
 
-    [[Ethical][Unethical][Would][Wouldn't]
+    [[Ethical][Unethical][Would][Wouldn't]]
     [                                         ] e-bike
     [                                         ] competitor
     [                                         ] laptop
@@ -46,19 +46,19 @@ Ethics are broadly applied social standards for what is right or wrong in a part
 
 Choose a course of action on the basis of results, duty, community norms, or personal convictions.
 
-End-result ethics
+**End-result ethics**
 
 - the rightness of an action is determined by evaluating the pros and cons of its consequences.
 
-Duty ethics
+**Duty ethics**
 
 - the rightness of an action is determined by an obligation to adhere to principles, laws, and social standards that define what is right and wrong and where the line is.
 
-Social contract ethics
+**Social contract ethics**
 
 - the rightness of an action is based on the customs and norms of a particular community.
 
-Personalistic ethics
+**Personalistic ethics**
 
 - the rightness of the action is based on one’s own conscience and moral standards.
 
