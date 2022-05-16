@@ -99,6 +99,16 @@ Legal.
 
 ![Figure 5.1](./img/Fig5_1.jpg)
 
+--{{0}}--
+The first step is developing a complete understanding of the moral problem at hand.
+•	This means grasping the various subjective moral standards in play among involved parties, including individual values and beliefs as well as social norms.
+•	It also means recognizing the mix of potential harms, benefits, and rights that are involved in the situation.
+With the problem fully defined, the path to a convincing solutions travels through the three modes of analysis shown on the right side of the figure.
+•	A determination of economic outcomes of potential courses of action.
+•	A consideration of legal requirements that bear on the situation.
+•	An assessment of the ethical obligations to other involved parties regarding what is “right” and “just” and “fair.”
+The result from this process is to propose a convincing moral solution.
+
 ### Ethical conduct in negotiation
 
 Why do some negotiators use unethical tactics?
@@ -174,6 +184,103 @@ For example, misrepresenting your interest on a common-value issue in order to o
 > - Students could lie by omission or commission.
 > 
 > - Far more students were willing to lie by omission.
+
+### Figure 5.2: A simple model of deception in negotiation
+
+![Figure 5.2](./img/Fig5_2.jpg)
+
+--{{0}}--
+This flowchart model describes a rational calculation process in which the negotiator selects a tactic, uses the tactic, evaluates the consequences, and attempts to manage the consequences (if the tactic is detected) through explanations and justifications.
+The model puts a negotiator in an influence situation and identifies possible influence tactics that could be effective, some of which might be deceptive, inappropriate, or marginally ethical.
+Once identified, the negotiator may decide to use one or more tactics – the selection and use are likely influenced by the negotiator’s own motivations and their judgment of the tactic’s appropriateness.
+Once the tactic is employed, the negotiator will assess consequences on three standards: whether the tactic worked and produced the desired result; how the negotiator feels about themselves after using the tactic; and how the individual may be judged by the other party or by neutral observers.
+Negative or positive conclusions on any of these three standards may lead the negotiator to try to explain or justify use of the tactic, and they will eventually affect a decision to employ similar tactics in the future.
+
+
+
+### Motives for using deceptive tactics
+
+Negotiators use ethically ambiguous tactics to increase their power.
+
+- Whoever has better information “wins” the negotiation.
+
+  - This view assumes that the information is accurate and truthful.
+
+  - Questioning the other’s truthfulness may insult them and investigating their truthfulness consumes time and energy.
+
+- If deception is a way to gain power, then are negotiators in a position of weakness more likely to be tempted to engage in deception?
+
+> A negotiator’s motivation affects their tendency to use deception.
+> 
+> - They may use it to achieve their goals.
+> 
+> - They may use it to avoid being exploited.
+> 
+> - Individual differences of personality or culture affect its use.
+> 
+> - Negotiators rationalize deception in anticipation of the other’s conduct.
+
+### Consequences of unethical conduct
+
+Deceptive tactics are effective in certain circumstances.
+Consequences occur whether the tactic worked or not.
+
+> Effectiveness.
+> 
+> - Deceptive tactics are effective in certain circumstances.
+> 
+> - Consequences occur whether the tactic worked or not.
+
+> Reactions of others.
+> - “Targets” are typically angry and now mistrust you.
+> 
+>   - They may seek revenge.
+>   
+> - For serious and personal deception, the relationship suffers.
+> 
+>   - Damage to your reputation can be difficult to repair.
+
+ > Reactions of self.
+ > - When the other party suffers, a negotiator may feel discomfort.
+ > 
+ > - Negotiators who have no problem using deceptive tactics may use them again and ponder how to use them more effectively.
+
+
+### Explanations and justifications
+
+Here are some typical examples.
+
+- *The tactic was unavoidable* – so the negotiator is not responsible.
+- *The tactic was harmless* – according to the deceptive party.
+- *The tactic will help to avoid negative consequences* – for who?
+- *The tactic will produce good consequences, or altruistically motivated.*
+- *“They had it coming,”* or *“They deserve it,”* or *“I’m getting my due.”*
+- They were going to do it anyway, so I will do it first – anticipation.
+- *“He started it”* – anticipation in the past tense.
+- *The tactic is fair or appropriate to the situation* – ethical relativism.
+
+> Explanations allow the negotiator to convince others – particularly the victim – that conduct is acceptable.
+> 
+> They also help rationalize the behavior to themselves.
+
+### Dealing with others' use of deception
+
+Ask probing questions to reveal a great deal of information.
+
+Rephrase questions to uncover answers which skirt the truth.
+
+Force the other party to lie to your face or back off.
+
+Test the other party by asking a question you already know the answer to, and note the response.
+
+“Call” the tactic, and indicate your displeasure.
+
+Ignore the tactic for a relatively minor aspect.
+
+Discuss and help the other party shift to more honest behavior.
+
+Responding in kind will escalate the conflict.
+
 
 
 
