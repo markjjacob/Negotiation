@@ -16,9 +16,32 @@ icon: ./img/WBM_orig_RGB.jpg
 
 ## Chapter Overview
 
-We begin by examining how psychological perception is related to the process of negotiation, with attention to forms of perceptual distortion. 
-We then look at how negotiators use information to make decisions about tactics and strategy—the process of cognition. 
-First, we focus on framing—the strategic use of information to define and articulate a negotiating issue or situation.  
-Second, we discuss cognitive biases in information processing. 
-We experience and express emotion when we interact with others and negotiating is certainly no exception.
-In the final section, we discuss the role of moods and emotions in negotiation—both as causes of behavior and as consequences of negotiated outcomes.
+We begin by examining how psychological **perception** is related to the process of negotiation, with attention to forms of perceptual distortion.
+
+We then look at how negotiators use information to make decisions about tactics and strategy—the process of **cognition**.
+
+- First, we focus on framing—the strategic use of information to define and articulate a negotiating issue or situation.  
+- Second, we discuss cognitive biases in information processing.
+
+We experience and express **emotion** when we interact with others and negotiating is certainly no exception.
+
+- In the final section, we discuss the role of moods and emotions in negotiation—both as causes of behavior and as consequences of negotiated outcomes.
+
+## Perception Defined
+
+Perception is the process by which individuals connect to their environment, by ascribing meaning to messages and events.
+
+Perception is a “sense-making” process where people interpret their environment so they can respond appropriately.
+
+```    ascii
+         +-------------------------------------------+
+         |                                           |
+Stimulus-+->Attention--->Recognition--->Translations-+->Behavior
+         |                                           |
+         +-------------------------------------------+
+                           **Perception**
+```
+
+> Environments are typically complex, so as perceivers we become selective
+
+
