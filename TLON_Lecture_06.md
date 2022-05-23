@@ -355,6 +355,16 @@ Misperceptions and cognitive biases typically arise out of conscious awareness a
 
 ## Mood, Emotion and Negotiation
 
+How do you usually feel/are you feeling?
+
+    [[terrible][bad][ok][good][great]]
+    [                                         ] when you win
+    [                                         ] when you lose
+    [                                         ] before an interview
+    [                                         ] at a party
+    [                                         ] now
+
+
 The role of mood and emotion in negotiation has been an increasing body of theory and research during the last two decades.
 
 - The distinction between mood and emotion is based on three characteristics: specificity, intensity, and duration.
