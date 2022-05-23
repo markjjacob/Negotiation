@@ -25,7 +25,7 @@ We experience and express **emotion** when we interact with others and negotiati
 
 - In the final section, we discuss the role of moods and emotions in negotiation—both as causes of behavior and as consequences of negotiated outcomes.
 
-## Perception Defined
+## Perception
 
 Perception is the process by which individuals connect to their environment, by ascribing meaning to messages and events.
 
@@ -40,6 +40,14 @@ Stimulus-+-> Attention---> Recognition---> Translations-+-> Behavior
 ```
 
 > Environments are typically complex, so as perceivers we become selective
+
+### Your perception
+
+![punks](https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/12/21/2ca5e9a6-4039-11eb-be63-b2d34bb06b66_image_hires_155142.jpg)
+
+Would you ...?
+
+[[Yes][No][Maybe] [ ] lend them €100 [ ] lend them your bike [ ] invite them for a drink
 
 ### Perceptual Distortion
 
@@ -64,6 +72,8 @@ Stimulus-+-> Attention---> Recognition---> Translations-+-> Behavior
 - Usually arises out of a need to project one's own self-concept
 
 ### Framing
+
+![Framing](https://www.redbearnegotiation.com/hubfs/Depositphotos_168688620_xl-2015-1024x683-landscape-1.jpg)
 
 A frame is a subjective mechanism allowing people to evaluate situations, leading them to pursue or avoid subsequent actions.
 
