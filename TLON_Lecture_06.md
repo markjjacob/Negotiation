@@ -27,6 +27,14 @@ We experience and express **emotion** when we interact with others and negotiati
 
 ## Perception
 
+![woman](https://neilpatel.com/wp-content/uploads/2017/08/pasted-image-0-136.png)
+
+Who do you see first?
+
+[(Old)] an old woman
+[(Young)] a young woman
+[(None)] nobody
+
 Perception is the process by which individuals connect to their environment, by ascribing meaning to messages and events.
 
 Perception is a “sense-making” process where people interpret their environment so they can respond appropriately.
