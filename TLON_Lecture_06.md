@@ -153,10 +153,10 @@ Due in part to biases in perception and judgment.
 - Initial commitments become set in stone.
 - A desire for consistency prevents changing them—made worse by a desire to save face.
 
-Fight the bias.
-
-- Use an adviser to serve as a reality check.
-- There may be less desire to escalate if regret is felt following a previous escalation situation.
+> Fight the bias.
+>
+> - Use an adviser to serve as a reality check.
+> - There may be less desire to escalate if regret is felt following a previous escalation situation.
 
 ### Mythical fixed-pie beliefs
 
@@ -164,10 +164,11 @@ Many negotiators assume that all negotiations involve a fixed pie and approach i
 
 - Negotiators focusing on personal gain are most likely to come under the influence of fixed-pie beliefs while those focusing on values are less likely to see a fixed-pie.
 
-Chapter 3 provided advice on minimizing this fixed-pie belief through procedures for inventing options—we mention two additional approaches now.
 
-- First, by focusing on underlying interests rather than merely on the issues being negotiated, negotiators are more likely to see their fixed-pie perception is misguided.
-- Second, fixed-pie perceptions can be diminished by holding negotiators accountable for the way they negotiate.
+> Fight the bias
+>
+> - First, by focusing on underlying interests rather than merely on the issues being negotiated, negotiators are more likely to see their fixed-pie perception is misguided.
+> - Second, fixed-pie perceptions can be diminished by holding negotiators accountable for the way they negotiate.
 
 ### Anchoring and adjustment
 
@@ -177,7 +178,11 @@ Cognitive biases in anchoring and adjustment are related to the effect of the st
 - Once the anchor is defined, parties tend to treat it as a real, valid benchmark by which to adjust other judgments, such as the size of one side’s opening offer.
 - Goals—whether realistic or not—can serve as anchors and may be public or private, as well as conscious or unconscious.
 
-  - Thorough preparation, along with the use of a devil’s advocate or reality check, can help prevent errors of anchoring and adjustment.
+> Fight the bias
+> 
+> - Thorough preparation
+> - the use of a devil’s advocate or reality check
+> - both can help prevent errors of anchoring and adjustment.
 
 ### Issue Framing and Risk
 
@@ -192,7 +197,13 @@ As discussed earlier, a frame is a perspective or point of view that people use 
 
 This positive/negative framing process is important as the same offer can elicit markedly different courses of action depending on how it is framed in gain-loss terms.
 
-- Remedies—awareness of the bias, sufficient information, thorough analysis, and reality checks—but can be difficult to achieve as frames are often tied to deeply held values and beliefs or to other anchors that are hard to detect.
+> Fight the bias
+> 
+> - awareness of the bias
+> - sufficient information
+> - thorough analysis
+> - reality checks
+> - can be difficult to achieve as frames are often tied to deeply held values and beliefs or to other anchors that are hard to detect.
 
 ### Availability of Information
 
@@ -200,12 +211,20 @@ Negotiators must also be concerned with the potential bias caused by the availab
 
 - The availability of information also affects negotiation through the use of established search patterns and overvaluation of information resulting from those searches.
 
+> Fight the bias
+>
+> - Check everything for accuracy 
+
 ### The Winner’s Curse
 
 The winner’s curse refers to the tendency of negotiators, particularly in an auction setting, to settle quickly on an item and then subsequently feel discomfort about a negotiation win that comes too easily.
 
 - The negotiator may suspect the other party knows too much or has insight into an unseen advantage; and think they could have done better, or the deal is bad.
-- The best remedy for the winner’s curse is to prevent it from occurring in the first place by preparing adequately to prevent making an offer that is unexpectedly accepted.
+
+> Fight the bias
+> 
+> - The best remedy for the winner’s curse is to prevent it from occurring in the first place.
+> - Prepare adequately to prevent making an offer that is unexpectedly accepted.
 
 ### Overconfidence
 
@@ -213,7 +232,11 @@ Overconfidence is the tendency of negotiators to believe that their ability to b
 
 - It can solidify the degree to which negotiators support positions or options that are incorrect or inappropriate, and 
 - It can lead negotiators to discount the worth or validity of the judgments of others, in effect shutting down other parties as sources of information, interests, and options necessary for a successful integrative negotiation.
-- Study results are mixed, so negotiators should not always suppress confidence or optimism.
+
+> Fight the bias
+> 
+> - Study results are mixed.
+> - So negotiators should not always suppress confidence or optimism.
 
 ### The Law of Small Numbers
 
@@ -228,9 +251,11 @@ This tendency may lead to a self-fulfilling prophecy – people who expect to be
 - Treat the other party in a more distributive manner.
 - Likely be reciprocated with the same distributive treatment by the other party.
 
-To prevent, just remember the less experience, the greater the possibility that past lessons will be erroneously used in the future.
-
-- Styles and strategies that worked in the past may not work in the future, especially if the negotiations differ, which they will.
+> Fight the bias
+> 
+> - Remember the less experience, the greater the possibility that past lessons will be erroneously used in the future.
+> - Styles and strategies that worked in the past may not work in the future.
+> - especially if the negotiations differ, which they will.
 
 ### Self-Serving Biases
 
@@ -241,8 +266,12 @@ People often explain another person’s behavior by making attributions, either 
 - Perceptual error of a self-serving nature may also involve distortions in the evaluation of information.
 
   - For instance, the false-consensus effect is a tendency to overestimate the degree of support and consensus that exists for one’s own position, opinions, or behaviors.
-  - We also tend to assume our personal beliefs or opinions are based on credible information, while opposing beliefs are based on misinformation.
-  - Negotiators subject to this bias may make faulty judgments regarding tactics or outcome probabilities.
+
+> Fight the bias
+> 
+> - Negotiators subject to this bias may make faulty judgments regarding tactics or outcome probabilities.
+> - Just be aware of the bias
+> - Use a reality check
 
 ### Endowment Effect
 
@@ -250,6 +279,11 @@ The endowment effect is the tendency to overvalue something you own or believe y
 
 - In negotiation, the endowment effect can lead to inflated estimations of value that interfere with reaching a good deal. 
 - Negotiators are fine with using the status quo as an anchor, making concessions difficult.
+
+> Fight the bias
+> 
+> - This is very difficult to fight or defend against.
+> - Use a devil's advocate to make sure you are not initiating this effect.
 
 ### Ignoring Others' Cognitions
 
@@ -261,10 +295,10 @@ In contrast, when negotiators are able to consider things from the other party�
 
 - The risk of impasse is reduced and the chances for integrative outcomes via logrolling is enhanced. 
 
-Research suggests this is a result of making a complex task of decision making under conditions of risk and uncertainty more manageable.
-
-- Training and awareness reduce the effects modestly.
-- This deep-seated drive to ignore the others’ cognitions can be avoided only if negotiators explicitly focus on putting in the effort needed to form an accurate understanding of the other party’s interests, goals, and perspectives.
+> Fight the bias
+>
+> - Training and awareness reduce the effects modestly.
+> - This deep-seated drive to ignore the others’ cognitions can be avoided only if negotiators explicitly focus on putting in the effort needed to form an accurate understanding of the other party’s interests, goals, and perspectives.
 
 ### Reactive Devaluation
 
@@ -274,12 +308,12 @@ Reactive devaluation is the process of devaluing the other party’s concessions
 - To reduce their willingness to respond with a concession of equal size; or 
 - To seek even more from the other party once a concession has been made.
 
-Reactive devaluation may be minimized by 
-
-- Maintaining an objective view of the process, 
-- Assigning a colleague to do this task, 
-- Clarifying each side’s preferences on options and concessions before any are made,
-- Using a third party to mediate or filter concession-making processes.
+> Fight the bias
+>
+> - Maintaining an objective view of the process, 
+> - Assigning a colleague to do this task, 
+> - Clarifying each side’s preferences on options and concessions before any are made,
+> - Using a third party to mediate or filter concession-making processes.
 
 ### Managing Misperceptions and Cognitive Biases in Negotiation
 
