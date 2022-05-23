@@ -14,8 +14,6 @@ icon: ./img/WBM_orig_RGB.jpg
 
 # The Language of Negotiation - Perception, Cognition, Emotion
 
-## Chapter Overview
-
 We begin by examining how psychological **perception** is related to the process of negotiation, with attention to forms of perceptual distortion.
 
 We then look at how negotiators use information to make decisions about tactics and strategy—the process of **cognition**.
@@ -139,9 +137,24 @@ Frames are shaped by the bargaining mix.
 
 > Critical to issue development is the process of reframing—changes to the thrust, tone, and focus of a conversation.
 
-## Cognition
+## Cognitive biases
 
-### Cognitive biases - irrational escalation of commitment
+| Form of bias | Definition |
+|--------------|------------|
+| Escalation of Commitment | Tendency of an individual to make decisions that persist in pursuing a failing course of action |
+| Mythical fixed-pie beliefs | Tendency to see negotiation as a zero-sum or win-lose situation with parties' interests diametrically opposed |
+| Anchoring and adjustment | Being overly influenced by a standard or reference point (an anchor) and failing to make adjustments from it |
+| Issue framing and risk | Tendency to be unduly influenced by the positive or negative frame through which risks are perceived |
+| Information availability | Tendency to overweight information that is easily recalled or otherwise readily available at the expense of information that is critical but less salient |
+| The winner's curse | Tendency to settle quickly on an outcome and then feel discomfort about a negotiation win that comes too easily |
+| Negotiator overconfidence | Tendency to believe that one's ability to be correct or accurate is greater than is actually the case |
+| The law of small numbers | Tendency to draw inappropriate conclusions based on small data samples or a small number of examples |
+| Self-serving biases | Tendency to make attributions about causes of behavior that are self-serving (take personal credit for successes, blame aspects of the situation for negative results) |
+| Endowment effect | Tendency to inflate the value of something you own or have in your possession |
+| Ignoring others' cognitions | Failure to consider the other party's thoughts and perceptions, inhibiting an accurate understanding of their interests and goals |
+| Reactive devaluation | Placing less value on concessions made by the other side simply because the other party offered them |
+
+### Irrational escalation of commitment
 
 An “escalation of commitment” is making decisions that stick with a failing course of action.
 
