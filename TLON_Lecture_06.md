@@ -56,7 +56,7 @@ Would you ...?
 
 > *Stereotyping*
 
-- Occurs when a person assigns attributes to another solely on the basis of the other'S social or demographic category.
+- Occurs when a person assigns attributes to another solely on the basis of the other's social or demographic category.
 - Once formwd, sterotypes can be highly resistant to change
 
 > *Halo effects*
