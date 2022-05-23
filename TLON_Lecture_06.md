@@ -216,6 +216,7 @@ Emotions may be used strategically as influence tactics in negotiation.
 > Negotiators may also engage in the regulation or management of the emotions of the other party.
 > 
 > - Effective negotiators adjust their messages to adapt to what they perceive as the other party’s emotional state.
+> 
 >  - Known as emotional intelligence.
 
 
