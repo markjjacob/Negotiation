@@ -152,6 +152,8 @@ Frames are shaped by the bargaining mix.
 
 ## Cognitive biases
 
+![biases](https://nextbigwhat.com/wp-content/webpc-passthru.php?src=https://nextbigwhat.com/wp-content/uploads/2021/12/cognitive-bias-brain-770x400.jpeg&nocache=1)
+
 | Form of bias | Definition |
 |--------------|------------|
 | Escalation of Commitment | Tendency of an individual to make decisions that persist in pursuing a failing course of action |
