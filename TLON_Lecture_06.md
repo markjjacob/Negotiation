@@ -183,7 +183,7 @@ The role of mood and emotion in negotiation has been an increasing body of theor
   - Negotiators make smaller demands of worried or disappointed opponents. 
   - But fewer concessions to guilty or regretful opponents.
 
-## The effects of positive and negative emotion in negotiation
+### The effects of positive and negative emotion in negotiation
 
 Positive feelings may have negative consequences.
 
