@@ -47,7 +47,10 @@ Stimulus-+-> Attention---> Recognition---> Translations-+-> Behavior
 
 Would you ...?
 
-[[Yes][No][Maybe] [ ] lend them €100 [ ] lend them your bike [ ] invite them for a drink
+    [[Yes][No][Maybe]]
+    [                                         ] ask them to look after your bag
+    [                                         ] lend them your bike
+    [                                         ] accept an invitation for a drink
 
 ### Perceptual Distortion
 
