@@ -158,6 +158,141 @@ Fight the bias.
 - Use an adviser to serve as a reality check.
 - There may be less desire to escalate if regret is felt following a previous escalation situation.
 
+### Mythical fixed-pie beliefs
+
+Many negotiators assume that all negotiations involve a fixed pie and approach integrative negotiation opportunities as zero-sum situations or win-lose exchanges.
+
+- Negotiators focusing on personal gain are most likely to come under the influence of fixed-pie beliefs while those focusing on values are less likely to see a fixed-pie.
+
+Chapter 3 provided advice on minimizing this fixed-pie belief through procedures for inventing options—we mention two additional approaches now.
+
+- First, by focusing on underlying interests rather than merely on the issues being negotiated, negotiators are more likely to see their fixed-pie perception is misguided.
+- Second, fixed-pie perceptions can be diminished by holding negotiators accountable for the way they negotiate.
+
+### Anchoring and adjustment
+
+Cognitive biases in anchoring and adjustment are related to the effect of the standard (or anchor) against which subsequent adjustments are made during negotiation.
+
+- Anchors can be a trap for the negotiator as the choice of an anchor may be based on faulty or incomplete information and therefore misleading in and of itself.
+- Once the anchor is defined, parties tend to treat it as a real, valid benchmark by which to adjust other judgments, such as the size of one side’s opening offer.
+- Goals—whether realistic or not—can serve as anchors and may be public or private, as well as conscious or unconscious.
+
+  - Thorough preparation, along with the use of a devil’s advocate or reality check, can help prevent errors of anchoring and adjustment.
+
+### Issue Framing and Risk
+
+As discussed earlier, a frame is a perspective or point of view that people use when they gather information and solve problems.
+
+- For instance, people respond quite differently when they are negotiating to “gain” something than when negotiating to “not lose” something.
+
+“Prospect theory” holds that people are more risk-averse when a problem is framed as a possible gain, and risk-seeking when framed as a loss.
+
+- When negotiators are risk-averse, they are more likely to accept any viable offer simply because they are afraid of losing.
+- In contrast, when negotiators are risk-seeking, they are apt to wait for a better offer or for further concessions.
+
+This positive/negative framing process is important as the same offer can elicit markedly different courses of action depending on how it is framed in gain-loss terms.
+
+- Remedies—awareness of the bias, sufficient information, thorough analysis, and reality checks—but can be difficult to achieve as frames are often tied to deeply held values and beliefs or to other anchors that are hard to detect.
+
+### Availability of Information
+
+Negotiators must also be concerned with the potential bias caused by the availability of information or how easy information is to retrieve—check for accuracy.
+
+- The availability of information also affects negotiation through the use of established search patterns and overvaluation of information resulting from those searches.
+
+### The Winner’s Curse
+
+The winner’s curse refers to the tendency of negotiators, particularly in an auction setting, to settle quickly on an item and then subsequently feel discomfort about a negotiation win that comes too easily.
+
+- The negotiator may suspect the other party knows too much or has insight into an unseen advantage; and think they could have done better, or the deal is bad.
+- The best remedy for the winner’s curse is to prevent it from occurring in the first place by preparing adequately to prevent making an offer that is unexpectedly accepted.
+
+### Overconfidence
+
+Overconfidence is the tendency of negotiators to believe that their ability to be correct or accurate is greater than is actually true—and has a double-edged effect:
+
+- It can solidify the degree to which negotiators support positions or options that are incorrect or inappropriate, and 
+- It can lead negotiators to discount the worth or validity of the judgments of others, in effect shutting down other parties as sources of information, interests, and options necessary for a successful integrative negotiation.
+- Study results are mixed, so negotiators should not always suppress confidence or optimism.
+
+### The Law of Small Numbers
+
+In decision theory, the law of small numbers refers to the tendency to draw conclusions from small sample sizes.
+
+- In negotiation, the law of small numbers applies to the way negotiators learn and extrapolate from their own experience.
+- If experience is limited in time or scope, the tendency is to extrapolate prior experience onto future negotiations—such as, all negotiations are distributive.
+
+This tendency may lead to a self-fulfilling prophecy – people who expect to be treated in a distributive manner will:
+
+- Be more likely to perceive the other party’s behaviors as distributive, and
+- Treat the other party in a more distributive manner.
+- Likely be reciprocated with the same distributive treatment by the other party.
+
+To prevent, just remember the less experience, the greater the possibility that past lessons will be erroneously used in the future.
+
+- Styles and strategies that worked in the past may not work in the future, especially if the negotiations differ, which they will.
+
+### Self-Serving Biases
+
+People often explain another person’s behavior by making attributions, either to the person (internal factors: ability, mood, effort) or the situation (external factors: task, other people, fate).
+
+- In explaining other’s behavior, the tendency is to overestimate the role of personal or internal factors and underestimate the role of situational or external factors.
+- Perceptual biases are often exacerbated by the actor-observer effect in which people tend to attribute their own behavior to situational factors but attribute other's behaviors to personal factors.
+- Perceptual error of a self-serving nature may also involve distortions in the evaluation of information.
+
+  - For instance, the false-consensus effect is a tendency to overestimate the degree of support and consensus that exists for one’s own position, opinions, or behaviors.
+  - We also tend to assume our personal beliefs or opinions are based on credible information, while opposing beliefs are based on misinformation.
+  - Negotiators subject to this bias may make faulty judgments regarding tactics or outcome probabilities.
+
+### Endowment Effect
+
+The endowment effect is the tendency to overvalue something you own or believe you possess.
+
+- In negotiation, the endowment effect can lead to inflated estimations of value that interfere with reaching a good deal. 
+- Negotiators are fine with using the status quo as an anchor, making concessions difficult.
+
+### Ignoring Others' Cognitions
+
+Failure to consider the other party’s cognitions allows negotiators to simplify their thinking about otherwise complex processes; 
+
+- This usually leads to a more distributive strategy and causes a failure to recognize the contingent nature of both sides’ behaviors and responses.
+
+In contrast, when negotiators are able to consider things from the other party’s viewpoint (a cognitive capacity known as “perspective taking”), 
+
+- The risk of impasse is reduced and the chances for integrative outcomes via logrolling is enhanced. 
+
+Research suggests this is a result of making a complex task of decision making under conditions of risk and uncertainty more manageable.
+
+- Training and awareness reduce the effects modestly.
+- This deep-seated drive to ignore the others’ cognitions can be avoided only if negotiators explicitly focus on putting in the effort needed to form an accurate understanding of the other party’s interests, goals, and perspectives.
+
+### Reactive Devaluation
+
+Reactive devaluation is the process of devaluing the other party’s concessions simply because the other party made them—leads negotiators to:
+
+- Minimize the magnitude of a concession made by a disliked other; 
+- To reduce their willingness to respond with a concession of equal size; or 
+- To seek even more from the other party once a concession has been made.
+
+Reactive devaluation may be minimized by 
+
+- Maintaining an objective view of the process, 
+- Assigning a colleague to do this task, 
+- Clarifying each side’s preferences on options and concessions before any are made,
+- Using a third party to mediate or filter concession-making processes.
+
+### Managing Misperceptions and Cognitive Biases in Negotiation
+
+Misperceptions and cognitive biases typically arise out of conscious awareness as negotiators gather and process information.
+
+- The first level of managing such distortions is to be aware that they can occur.
+- Awareness may not be enough—simply knowing about them does little to counteract their effects.
+- More research is needed to provide effective advice, but until then:
+
+  - Be aware of the existence of these biases, 
+  - Understand their negative effects, and
+  - Be prepared to discuss them when appropriate with your own team and with counterparts.
+
 ## Mood, Emotion and Negotiation
 
 The role of mood and emotion in negotiation has been an increasing body of theory and research during the last two decades.
