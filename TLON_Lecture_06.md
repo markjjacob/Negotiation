@@ -57,14 +57,14 @@ Would you ...?
 > *Stereotyping*
 
 - Occurs when a person assigns attributes to another solely on the basis of the other's social or demographic category.
-- Once formwd, sterotypes can be highly resistant to change
+- Once formed, sterotypes can be highly resistant to change
 
 > *Halo effects*
 
 - Occur when people generalize about a variety of attributes based on the knowledge of one attribute of the individual.
 - Can be positive or negative.
 
-> *Selective perveption*
+> *Selective perception*
 
 - Occurs when perceivers single out supporting information and filter out information that does not confirm their beliefs.
 - Perpetuates sterotypes or halo effects.
