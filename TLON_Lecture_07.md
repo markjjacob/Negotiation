@@ -268,8 +268,10 @@ Unmanageable questions cause difficulty.
 
 ### Table 7.2: Questions in Negotiation
 
+{{1-3}}
 Manageable Questions.
 
+{{2-3}}
 - Open-ended questions.
 - Open questions.
 - Leading questions.
@@ -280,8 +282,10 @@ Manageable Questions.
 - Direct questions.
 - Gauging questions.
 
+{{3}}
 Unmanageable Questions.
 
+{{4}}
 - Close-out questions.
 - Loaded questions.
 - Heated questions.
