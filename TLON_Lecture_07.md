@@ -17,7 +17,7 @@ icon: ./img/WBM_orig_RGB.jpg
 {{1-2}}
 ![opener](https://cdn.lynda.com/course/711805/711805-636685487492764269-16x9.jpg)
 
-{{2-3}}
+{{2}}
 **Do you enjoy communicating?**
 
     {{3}}
