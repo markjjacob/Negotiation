@@ -172,19 +172,17 @@ It may seem obvious that how negotiators communicate is as important as what the
 
 ### Characteristics of Language
 
+{{1-3}}
 Language operates on two levels: the logical and the pragmatic.
 
+{{2-3}}
 - logical (proposals or offers)
 - pragmatic (semantics, syntax and style)
 
+{{3-5}}
 We respond to the substance of threats and the unspoken message.
 
-The use of *polarized* language.
-The conveyance of *verbal immediacy*.
-The degree of *language intensity*.
-The degree of *lexical diversity*.
-The extent of a *high-power language style*.
-
+{{4-5}}
 | Linguistic Dimension | Details                                                                                                                                                                                                                        |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Polarized language   | Negotiators use positive words when talking about their own position (e.g. generous, reasonable, even-handed) and negative whens when referring to the other party's position (e.g. tight fisted, unreasonable, heavy-handed). |
@@ -193,9 +191,11 @@ The extent of a *high-power language style*.
 | Lexical diversity    | HIGH (broad, rich vocabulary) denote comfort and competence with language and LOW levels denote discomfort, anxiety or inexperience.                                                                                           |
 | Power language       | HIGH denotes verbal dominance, clarity and firmness of expression and self-assurance. LOW denotes the use of verbal hedges, hesitations or politeness to the point of deference and subordination.                             |
 
+{{5-6}}
 - Threats are more credible and compelling when using negatively polarized, high immediacy, high intensity, high lexical diversity and a high-power style of language.
 - It is not just what is threatened but how the threat is conveyed.
 
+{{6}}
 > Communication depends on the speaker’s ability to encode thoughts, and the listener’s ability to understand and decode the intended message(s).
 > 
 > A negotiator’s choice of words may signal a position and also shape and predict the resulting conversation.
@@ -240,24 +240,34 @@ Email has a “slow-tempo” while texting is a “fast-tempo” medium more clo
 
 ### 10 Rules for Virtual Negotiation
 
+{{1}}
 1. Create a face-to-face relationship before negotiation.
 
+{{2}}
 2. Be explicit about the normative process to be followed during the negotiation.
 
+{{3}}
 3. If others are present, make sure everyone knows who is there and why.
 
+{{4}}
 4. Pick the channel effective at getting details on the table for consideration by both sides.
 
+{{5}}
 5. Avoid “flaming” by labeling emotion so others know what it is and what’s behind it.
 
+{{6}}
 6. Formal turn-taking is not strictly necessary, but synchronize offers and counter-offers.
 
+{{7}}
 7. Check out assumptions as inferences will get you in trouble, so ask questions.
 
+{{8}}
 8. Be careful not to make unwise commitments.
 
+{{9}}
 9. Unethical tactics may be easier to use in virtual negotiation, but resist the urge.
 
+{{10}}
 10. Develop a negotiation style that is a good fit with the channel you use.
 
 ## How to Improve Communication in Negotiation 
