@@ -18,16 +18,16 @@ icon: ./img/WBM_orig_RGB.jpg
 
 ![communication](https://www.freepik.com/free-vector/business-discussion-verbal-communication-colleagues-conversation-corporate-conference-partnership-establishment-negotiation-office-meeting_10780043.htm)
 
-{{0-2}}
+{{1-3}}
 > Lecture 7 examines the process by which negotiators communicate their
 
-{{1-2}}
+{{2-3}}
 - interests
 - positions
 - goals
 
 
-{{2}}
+{{3}}
 ```    ascii
                 +---------------+
                 |               |
@@ -41,7 +41,7 @@ Negotiator A <--+--+ W h a t +--+--> Negotiator B
               
 ```
 
---{{2}}--
+--{{3}}--
 We first consider what is communicated in a negotiation, followed by exploring how people communicate in negotiation. The lecture concludes with discussions of how to improve communication in negotiation and of special communication considerations at the close of negotiations.
 
 ## What is Communicated during Negotiation?
