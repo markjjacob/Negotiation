@@ -37,7 +37,7 @@ Negotiator A <--+--+ W h a t +--+--> Negotiator B
               
 ```
 
-{{2}}
+--{{2}}--
 We first consider what is communicated in a negotiation, followed by exploring how people communicate in negotiation. The lecture concludes with discussions of how to improve communication in negotiation and of special communication considerations at the close of negotiations.
 
 ## What is Communicated during Negotiation?
