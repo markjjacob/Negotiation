@@ -14,12 +14,13 @@ icon: ./img/WBM_orig_RGB.jpg
 
 # The Language of Negotiation - Communication
 
-{{0-1}}
+{{1-2}}
 ![opener](https://cdn.lynda.com/course/711805/711805-636685487492764269-16x9.jpg)
 
+{{2-3}}
 **Do you enjoy communicating?**
 
-      {{2-3}}
+{{3}}
     [(Yes)] Yes
     [(No)] No
     [(Sometines)] Sometimes    
