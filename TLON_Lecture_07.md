@@ -20,7 +20,7 @@ icon: ./img/WBM_orig_RGB.jpg
 {{2-3}}
 **Do you enjoy communicating?**
 
-{{3}}
+    {{3}}
     [(Yes)] Yes
     [(No)] No
     [(Sometines)] Sometimes    
