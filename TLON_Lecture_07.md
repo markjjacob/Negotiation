@@ -163,6 +163,10 @@ It may seem obvious that how negotiators communicate is as important as what the
 ### Characteristics of Language
 
 Language operates on two levels: the logical and the pragmatic.
+
+- logical (proposals or offers)
+- pragmatic (semantics, syntax and style)
+
 We respond to the substance of threats and the unspoken message.
 
 The use of *polarized* language.
@@ -170,6 +174,14 @@ The conveyance of *verbal immediacy*.
 The degree of *language intensity*.
 The degree of *lexical diversity*.
 The extent of a *high-power language style*.
+
+| Linguistic Dimension | Details                                                                                                                                                                                                                        |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Polarized language   | Negotiators use positive words when talking about their own position (e.g. generous, reasonable, even-handed) and negative whens when referring to the other party's position (e.g. tight fisted, unreasonable, heavy-handed). |
+| Verbal immediacy     | HIGH to engage or compel the other party (OK, here is the deal." or "I take great care to ...) or LOW and intended to create a sense of distance or aloofness (Well, there it is." or "One should take great care to ...).     |
+| Language intensity   | HIGH conveys strong feelings (affirmation, frequent use of profanity) or LOW intensity conveys weak feelings.                                                                                                                  |
+| Lexical diversity    | HIGH (broad, rich vocabulary) denote comfort and competence with language and LOW levels denote discomfort, anxiety or inexperience.                                                                                           |
+| Power language       | HIGH denotes verbal dominance, clarity and firmness of expression and self-assurance. LOW denotes the use of verbal hedges, hesitations or politeness to the point of deference and subordination.                             |
 
 - Threats are more credible and compelling when using negatively polarized, high immediacy, high intensity, high lexical diversity and a high-power style of language.
 - It is not just what is threatened but how the threat is conveyed.
@@ -275,26 +287,30 @@ Unmanageable questions cause difficulty.
 Manageable Questions.
 
 {{2-3}}
-- Open-ended questions.
-- Open questions.
-- Leading questions.
-- Cool questions.
-- Planned questions.
-- Treat questions.
-- Window questions.
-- Direct questions.
-- Gauging questions.
+| Manageeable Questions | Examples                                                                                            |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| Open-ended questions  | "Why do you take that position in these deliberations?"                                             |
+| Open questions        | "What do you think of our proposal?"                                                                |
+| Leading questions     | "Don't you think our proposal is a fair and reasonable offer?"                                      |
+| Cool questions        | "What is the additional rate that we will have to payif you make the improvements on the property?" |
+| Planned questions     | "After you make the improvements to the property. when can we expect to take occupancy?"            |
+| Treat questions       | "Can you provide us with some of your excellent insight in this problem?"                           |
+| Window questions      | "Can you tell us how you came to that conclusion?"                                                  |
+| Directive questions   | "How much is the rental rate per square foot with these improvements?"                              |
+| Guaging questions     | "How do you feel about our proposal?"                                                               |
 
 {{3}}
 Unmanageable Questions.
 
 {{4}}
-- Close-out questions.
-- Loaded questions.
-- Heated questions.
-- Impulse questions.
-- Trick questions.
-- Reflective trick questions.
+| Unmanageable Questions     | Examples                                                                                                                  |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Close-out questions        | "You wouldn't try to take advantage of us here, would you?"                                                               |
+| Loaded questions           | "Do you mean to tell me that these are the only terms that you will accept?"                                              |
+| Heated questions           | "Don't you think we've spent enough time discussing this ridiculous proposal of yours?"                                   |
+| Impulse questions          | "As long as we're discussing this, what do you think we ought to tell other groups who have made silmilar demands on us?" |
+| Trick questions            | "What are you going to do - give in to our demands or take this to arbitration?                                           |
+| Reflective trick questions | "Here's how I see the situation - don't you agree?"                                                                       |
 
 ### Table 7.3: Questions for Tough Situations
 
