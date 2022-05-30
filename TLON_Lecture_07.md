@@ -14,6 +14,8 @@ icon: ./img/WBM_orig_RGB.jpg
 
 # The Language of Negotiation - Communication
 
+![opener](https://cdn.lynda.com/course/711805/711805-636685487492764269-16x9.jpg)
+
 {{0-2}}
 > Lecture 7 examines the process by which negotiators communicate their
 
