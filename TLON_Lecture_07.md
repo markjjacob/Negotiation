@@ -232,7 +232,7 @@ There are important distinctions between email and other forms of written commun
 Developing rapport and sharing information are aspects of face-to-face communication, which may also allow conveyance of toughness.
 
 - Email can mask or reduce power differences between negotiators.
-- Email negotiations lack schmoozing.
+- Email negotiations lack [schmoozing](https://www.merriam-webster.com/dictionary/schmooze).
 
 Email has a “slow-tempo” while texting is a “fast-tempo” medium more closely approximating oral communication.
 
@@ -253,7 +253,7 @@ Email has a “slow-tempo” while texting is a “fast-tempo” medium more clo
 4. Pick the channel effective at getting details on the table for consideration by both sides.
 
 {{5}}
-5. Avoid “flaming” by labeling emotion so others know what it is and what’s behind it.
+5. Avoid [“flaming”](https://www.techopedia.com/definition/5356/flaming) by labeling emotion so others know what it is and what’s behind it.
 
 {{6}}
 6. Formal turn-taking is not strictly necessary, but synchronize offers and counter-offers.
