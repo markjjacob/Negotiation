@@ -17,6 +17,15 @@ icon: ./img/WBM_orig_RGB.jpg
 {{0-1}}
 ![opener](https://cdn.lynda.com/course/711805/711805-636685487492764269-16x9.jpg)
 
+**Do you enjoy communicating?**
+
+      {{2-3}}
+    [(Yes)] Yes
+    [(No)] No
+    [(Sometines)] Sometimes    
+
+## Lecture overview
+
 {{1-3}}
 > Lecture 7 examines the process by which negotiators communicate their
 
