@@ -47,7 +47,7 @@ A year ago each put in €200 to buy the TV: Now they have different preferences
 {{1-2}}
  - Aadhunika, A, wants to sell it and simply split the money because she wants to buy herself a new smartphone
  - Brisa, B, wants to sell it and buy a smaller, less expensive TV so she can watch her own shows
- - Constantin wants to sell it and buy a big screen TV and top quality audio system that will require each of them to chip in a lot more money
+ - Constantin, C, wants to sell it and buy a big screen TV and top quality audio system that will require each of them to chip in a lot more money
  - Daniel, D, doesn't want to sell it at all and thinks the whole thing is a dumb idea
 
 {{2}}
