@@ -5,7 +5,7 @@ email:
 version:  0.0.1
 language: en
 narrator: UK English Female
-comment: The Language of Negotiation 08
+comment: The Language of Negotiation 09
 icon: ./img/WBM_orig_RGB.jpg
 
 -->
@@ -14,15 +14,46 @@ icon: ./img/WBM_orig_RGB.jpg
 
 # The Language of Negotiation - Multiple Parties, Groups and Teams
 
+![](https://blog.blackswanltd.com/hs-fs/hubfs/GettyImages-1146473046.jpg?width=2607&name=GettyImages-1146473046.jpg)
+
 ## The Nature of Multiparty Negotiations
 
 {{0}}
 A *multiparty negotiation* is one in which more than two interested parties are working together at the table to achieve a collective objective.
 
-{{1}}
-![](./img/Fig10_1.jpg)
+### Four Friends and a Smart TV
+
+??[](https://etherpad.informatik.tu-freiberg.de/p/FourFriends)
+
+#### The Issue
+
+{{0-2}}
+![](https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_82872957/fee_786_587_png)
+
+{{1-2}}
+Click [here](https://www.mediamarkt.de/de/product/_samsung-gq65q60a-2724135.html?storeId=&utm_source=google&utm_medium=cpc&utm_campaign=RT_shopping_na_nsp_na_PLA+-+LIA+-+PMax+Test&gclid=EAIaIQobChMItZ69oJG8-AIV2IBQBh1jEAGFEAQYAiABEgKnLPD_BwE&gclsrc=aw.ds) for more details.
 
 {{2}}
+A group of four students are selling a selling an LED Smart TV and puts up notices on WhatsApp and Instagram.
+
+{{3}}
+A year ago each put in €200 to buy the TV: Now they have different preferences for what they should do with it.
+
+#### The students
+
+{{0-2}}
+![](https://learnsafe.com/wp-content/uploads/2018/01/Four-students-isolated.png)
+
+{{1-2}}
+ - Aadhunika, A, wants to sell it and simply split the money because she wants to buy herself a new smartphone
+ - Brisa, B, wants to sell it and buy a smaller, less expensive TV so she can watch his own shows
+ - Constantin wants to sell it and buy a big screen TV and top quality audio system that will require each of them to chip in a lot more money
+ - Daniel, D, doesn't want to sell it at all and thinks the whole thing is a dumb idea
+
+{{2}}
+![](./img/Fig10_1.jpg)
+
+{{3}}
 ![](./img/Fig10_2.jpg)
 
 ### Differences between Two-Party Negotiations and Multiparty Negotiations
