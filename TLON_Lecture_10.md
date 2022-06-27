@@ -222,7 +222,7 @@ Justice can take several forms.
 
 Reputations, trust, and justice all interact in shaping expectations of the other’s behavior.
 
--When one party feels the other acted fairly in the past or will act fairly in the future, they are more likely to trust the other.
+- When one party feels the other acted fairly in the past or will act fairly in the future, they are more likely to trust the other.
 - Conversely, when parties are unfairly treated, they often become angry and retaliate against either the injustice itself or those who are seen as causing it.
 
 Trust, justice, and reputation are all central to relationship negotiations and feed each other.
