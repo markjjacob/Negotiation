@@ -10,7 +10,7 @@ icon: ./img/WBM_orig_RGB.jpg
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/Negotiation/blob/main/TLON_Lecture_08.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/Negotiation/blob/main/git/TLON_Lecture_08.md)
 
 # The Language of Negotiation - Finding and Using Negotiation Power
 

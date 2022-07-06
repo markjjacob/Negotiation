@@ -10,7 +10,7 @@ icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/Negotiation/blob/main/TLON_Lecture_01.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/Negotiation/blob/main/git/TLON_Lecture_01.md)
 
 # The Language of Negotiation - The Nature of Negotiation
 
