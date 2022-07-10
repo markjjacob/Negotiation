@@ -42,7 +42,7 @@ icon: ./img/WBM_orig_RGB.jpg
 
 10. Continue to learn from your experience.
 
-## Be Prepared
+## 1. Be Prepared
 
 Preparation cannot be overemphasized and leads to several advantages.
 
@@ -63,7 +63,7 @@ Good preparation means setting high but achievable outcome aspirations.
 
 Prepare by understanding your own strengths and weaknesses, your needs and interests, the situation, and the other party then adjust promptly and effectively as the negotiation proceeds.
 
-## Diagnose the Fundamental Structure of the Negotiation
+## 2. Diagnose the Fundamental Structure of the Negotiation
 
 Assess whether you are in a distributive or an integrative negotiation.
 
@@ -77,7 +77,7 @@ Remember, negotiations consist of a blend of integrative and distributive elemen
 
 > At times, accommodation, avoidance, and compromise may be appropriate strategies.
 
-## Identify and Work the BATNA
+## 3. Identify and Work the BATNA
 
 The best alternative to a negotiated agreement (BATNA) is especially important as this is likely the outcome should agreement not be reached.
 
@@ -93,7 +93,7 @@ You need to be aware of the other’s BATNA and identify how it compares to what
 - Remind the other negotiator how your offer relates to their BATNA.
 - Subtly suggest the other’s BATNA may not be as strong as they think
 
-## Be Willing to Walk Away
+## 4. Be Willing to Walk Away
 
 The goal of negotiation is a valued outcome, not just ‘an agreement’
 
@@ -111,7 +111,7 @@ Negotiators can focus on an agreement and lose sight of the real goal, which is 
 
 > Even without a good BATNA, you should have a clear walkaway point in mind where you will halt negotiations.
 
-## Master the Key Paradoxes of Negotiation
+## 5. Master the Key Paradoxes of Negotiation
 
 Negotiation embodies a set of paradoxes and strong negotiators strive for balance when facing these challenges.
 
@@ -199,7 +199,7 @@ There is no right or wrong approach to managing this dilemma.
 
 - Strong negotiators are aware and consciously monitor how they are managing this challenge
 
-## Remember the Intangibles
+## 6. Remember the Intangibles
 
 Intangibles frequently affect negotiation in a negative way, and often operate outside of awareness.
 
@@ -213,7 +213,7 @@ Intangibles frequently affect negotiation in a negative way, and often operate o
 
 > Remember that intangibles influence your own behavior.
 
-## Actively Manage Coalitions--Those against You, for You, and Unknown
+## 7. Actively Manage Coalitions--Those against You, for You, and Unknown
 
 Strong negotiators work to capture a strong, supportive coalition.
 
@@ -229,7 +229,7 @@ Coalitions occur in many formal negotiations, but also have a strong influence i
 
 Strong negotiators need to monitor and manage coalitions proactively.
 
-## Savor and Protect Your Reputation
+## 8. Savor and Protect Your Reputation
 
 Starting negotiations with a positive reputation is essential, and negotiators should be vigilant in protecting their reputations.
 
@@ -243,7 +243,7 @@ Starting negotiations with a positive reputation is essential, and negotiators s
 >
 > Strong negotiators seek feedback about the way they are perceived and use that information to strengthen their credibility and trustworthiness.
 
-## Remember That Rationality and Fairness Are Relative
+## 9. Remember That Rationality and Fairness Are Relative
 
 People tend to view the world in a self-serving manner and define the “rational” thing to do or a “fair” outcome in a way that benefits themselves.
 
@@ -260,7 +260,7 @@ Reasonable people can disagree, the outcome negotiators can achieve is:
 - Agreement on the right way to see a problem.
 - A standard for determining what is a fair outcome or process.
 
-## Continue to Learn from Your Experience
+## 10. Continue to Learn from Your Experience
 
 The best negotiators continue to learn from the experience because no two negotiations are identical.
 
